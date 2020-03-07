@@ -105,4 +105,4 @@ venv.bak/
 
 .idea
 
-/data_science/exampleco_data
+exampleco_data/
